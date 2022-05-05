@@ -1,7 +1,7 @@
 # DỰ ÁN QUẢN LÝ SẢN PHẨM
 
 ## CÔNG NGHỆ DỰ ÁN SỬ DỤNG
-  Dự án sử dụng java core để xây dựng phần mềm quản lý sản phẩm
+  Dự án sử dụng java core, cấu trúc dữ liệu và giải thuật để xây dựng phần mềm quản lý sản phẩm
 ## Yêu cầu của project
 1. Đọc dữ liệu từ file Data.txt 
 2. Dữ liệu sễ được lưu vào danh sách móc nối theo thứ tự phía đuôi
